@@ -19,7 +19,7 @@
 		},
 	        {
 	            "type": "git",
-	            "url": "https://github.com/anjansoft/wordpress-restapi-plugin"
+	            "url": "https://github.com/anjansoft/wordpress_restapi_plugin"
 	        }
 	],
 	"config"      : {
